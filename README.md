@@ -19,11 +19,21 @@ H5 model saving to reuse the model without retraining
 Diabetic Retinopathy (DR) is a complication of diabetes that affects the eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). Early detection is crucial to prevent vision loss or blindness.
 
 🔬 Stages of Diabetic Retinopathy
-Your model predicts one of the following five stages of DR:
+ Model predicts one of the following five stages of Diabetic Retinopathy:
 
-Stage	Description
-No_DR	No signs of diabetic retinopathy. Retina appears healthy.
-Mild	Presence of a few microaneurysms (tiny bulges in blood vessels).
-Moderate	Blockage in some blood vessels that nourish the retina.
-Severe	A larger number of blocked blood vessels and more bleeding.
-Proliferative_DR	Most advanced stage with growth of abnormal blood vessels, which can lead to retinal detachment or blindness.
+No_DR: This stage indicates that there are no signs of diabetic retinopathy. The retina appears healthy and unaffected.
+
+Mild: At this stage, a few microaneurysms (tiny bulges in the blood vessels of the retina) are present, which are the earliest signs of damage.
+
+Moderate: There is some blockage in the blood vessels that nourish the retina. This can lead to changes in the retina and possible vision problems.
+
+Severe: A larger number of blood vessels are blocked, leading to significant bleeding and damage within the retina. This stage requires prompt medical attention.
+
+Proliferative_DR: This is the most advanced stage of diabetic retinopathy. Abnormal blood vessels begin to grow on the surface of the retina, which can leak, bleed, or cause the retina to detach, leading to blindness if untreated.
+
+
+
+
+
+
+
