@@ -13,7 +13,7 @@ Keras/TensorFlow for building and training the model
 
 Streamlit for creating a user-friendly interface
 
-H5 model saving to reuse the model without retraining
+H5 model saving to reuse the model without retraining the model.
 
 👁️ What is Diabetic Retinopathy?
 Diabetic Retinopathy (DR) is a complication of diabetes that affects the eyes. It's caused by damage to the blood vessels of the light-sensitive tissue at the back of the eye (retina). Early detection is crucial to prevent vision loss or blindness.
